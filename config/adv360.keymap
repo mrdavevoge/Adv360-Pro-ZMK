@@ -76,11 +76,11 @@
 
         right_layer {
             bindings = <
-&trans  &trans  &trans    &trans  &trans      &trans  &trans                                      &trans       &trans    &trans          &trans        &trans         &trans   &trans
-&trans  &kp N1  &kp N2    &kp N3  &kp N4      &kp N5  &trans                                      &trans       &kp N6    &kp N7          &kp N8        &kp N9         &kp N0   &trans
-&trans  &trans  &kp CAPS  &trans  &kp INSERT  &trans  &trans  &trans  &trans      &trans  &trans  &trans       &kp LEFT  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT      &trans   &trans
-&trans  &trans  &trans    &trans  &trans      &trans                  &trans      &trans                       &trans    &kp HOME        &kp PAGE_UP   &kp PAGE_DOWN  &kp END  &trans
-&trans  &trans  &trans    &trans  &trans              &trans  &trans  &trans      &trans  &trans  &lt 4 SPACE            &trans          &trans        &trans         &trans   &trans
+&trans  &trans   &trans    &trans  &trans      &trans  &trans                                      &trans       &trans    &trans          &trans        &trans         &trans   &trans
+&trans  &kp N1   &kp N2    &kp N3  &kp N4      &kp N5  &trans                                      &trans       &kp N6    &kp N7          &kp N8        &kp N9         &kp N0   &trans
+&trans  &kp DEL  &kp CAPS  &trans  &kp INSERT  &trans  &trans  &trans  &trans      &trans  &trans  &trans       &kp LEFT  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT      &trans   &trans
+&trans  &trans   &trans    &trans  &trans      &trans                  &trans      &trans                       &trans    &kp HOME        &kp PAGE_UP   &kp PAGE_DOWN  &kp END  &trans
+&trans  &trans   &trans    &trans  &trans              &trans  &trans  &trans      &trans  &trans  &lt 4 SPACE            &trans          &trans        &trans         &trans   &trans
             >;
         };
     };
